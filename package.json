@@ -1,0 +1,15 @@
+{
+  "name": "download-geodata",
+  "version": "1.0.0",
+  "description": "Downloads GeoNet Felt Reports",
+  "author": "Miles Thompson",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "csv-write-stream": "^2.0.0",
+    "get-json": "^1.0.1",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {}
+}
